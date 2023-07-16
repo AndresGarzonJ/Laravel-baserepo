@@ -1,5 +1,5 @@
 {
-  "name": "jsdecena/baserepo",
+  "name": "andresgarzonj/baserepo",
   "description": "Base repository",
   "autoload": {
     "classmap": [
@@ -23,8 +23,8 @@
   "license": "MIT",
   "authors": [
     {
-      "name": "Jeff Simons Decena",
-      "email": "jeff.decena@yahoo.com"
+      "name": "Andres Garzon",
+      "email": "sebasgarzonj@gmail.com"
     }
   ],
   "extra": {
