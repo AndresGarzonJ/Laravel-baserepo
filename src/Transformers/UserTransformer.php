@@ -1,8 +1,8 @@
 <?php
 
-namespace Jsdecena\Baserepo\Transformers;
+namespace Andresgarzonj\Baserepo\Transformers;
 
-use Jsdecena\Baserepo\Models\User;
+use Andresgarzonj\Baserepo\Models\User;
 use League\Fractal;
 
 class UserTransformer extends Fractal\TransformerAbstract

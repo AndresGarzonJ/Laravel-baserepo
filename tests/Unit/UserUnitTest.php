@@ -1,12 +1,12 @@
 <?php
 
-namespace Jsdecena\Baserepo\Test\Unit;
+namespace Andresgarzonj\Baserepo\Test\Unit;
 
 use Illuminate\Database\Eloquent\Collection;
-use Jsdecena\Baserepo\Models\User;
-use Jsdecena\Baserepo\Repositories\UserRepository;
-use Jsdecena\Baserepo\Test\TestCase;
-use Jsdecena\Baserepo\Transformers\UserTransformer;
+use Andresgarzonj\Baserepo\Models\User;
+use Andresgarzonj\Baserepo\Repositories\UserRepository;
+use Andresgarzonj\Baserepo\Test\TestCase;
+use Andresgarzonj\Baserepo\Transformers\UserTransformer;
 
 class UserUnitTest extends TestCase
 {

@@ -1,9 +1,9 @@
 <?php
 
-namespace Jsdecena\Baserepo;
+namespace Andresgarzonj\Baserepo;
 
 use Illuminate\Support\ServiceProvider;
-use Jsdecena\Baserepo\Test\Models\User;
+use Andresgarzonj\Baserepo\Test\Models\User;
 
 class BaseRepositoryProvider extends ServiceProvider
 {

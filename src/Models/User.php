@@ -1,6 +1,6 @@
 <?php
 
-namespace Jsdecena\Baserepo\Models;
+namespace Andresgarzonj\Baserepo\Models;
 
 use Illuminate\Database\Eloquent\Model;
 

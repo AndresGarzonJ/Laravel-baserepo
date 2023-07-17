@@ -1,6 +1,6 @@
 <?php
 
-namespace Jsdecena\Baserepo\Test;
+namespace Andresgarzonj\Baserepo\Test;
 
 abstract class TestCase extends \Orchestra\Testbench\TestCase
 {

@@ -1,7 +1,7 @@
 <?php
 
 use Faker\Generator as Faker;
-use Jsdecena\Baserepo\Models\User;
+use Andresgarzonj\Baserepo\Models\User;
 
 /*
 |--------------------------------------------------------------------------

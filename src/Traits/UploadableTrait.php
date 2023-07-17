@@ -1,6 +1,6 @@
 <?php
 
-namespace Jsdecena\Baserepo\Traits;
+namespace Andresgarzonj\Baserepo\Traits;
 
 use Illuminate\Http\UploadedFile;
 

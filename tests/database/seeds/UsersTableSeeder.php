@@ -1,6 +1,6 @@
 <?php
 
-use Jsdecena\Baserepo\Models\User;
+use Andresgarzonj\Baserepo\Models\User;
 
 class UsersTableSeeder extends \Illuminate\Database\Seeder
 {

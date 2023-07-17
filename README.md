@@ -12,7 +12,7 @@
 
 ## How to install
 
-- Run in your terminal `composer require jsdecena/baserepo`
+- Run in your terminal `composer require andresgarzonj/baserepo`
 
 - In your repository class, extend it so you can use the methods readily available.
 
@@ -23,7 +23,7 @@ namespace App\Repositories;
 use App\User;
 use Illuminate\Http\Request;
 use Illuminate\Database\QueryException;
-use Jsdecena\Baserepo\BaseRepository;
+use Andresgarzonj\Baserepo\BaseRepository;
 
 class UserRepository extends BaseRepository {
     

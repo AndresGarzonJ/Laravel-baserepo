@@ -1,6 +1,6 @@
 <?php
 
-namespace Jsdecena\Baserepo;
+namespace Andresgarzonj\Baserepo;
 
 use League\Fractal\Manager;
 use League\Fractal\Serializer\JsonApiSerializer;

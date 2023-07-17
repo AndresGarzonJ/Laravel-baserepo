@@ -1,6 +1,6 @@
 <?php
 
-namespace Jsdecena\Baserepo;
+namespace Andresgarzonj\Baserepo;
 
 use Illuminate\Pagination\LengthAwarePaginator;
 use League\Fractal\Pagination\IlluminatePaginatorAdapter;

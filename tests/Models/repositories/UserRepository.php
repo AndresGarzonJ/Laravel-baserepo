@@ -1,11 +1,11 @@
 <?php
 
-namespace Jsdecena\Baserepo\Test\Models\Repositories;
+namespace Andresgarzonj\Baserepo\Test\Models\Repositories;
 
 use Illuminate\Support\Collection;
 use Illuminate\Support\Facades\Hash;
-use Jsdecena\Baserepo\BaseRepository;
-use Jsdecena\Baserepo\Test\Models\User;
+use Andresgarzonj\Baserepo\BaseRepository;
+use Andresgarzonj\Baserepo\Test\Models\User;
 
 class UserRepository extends BaseRepository
 {
