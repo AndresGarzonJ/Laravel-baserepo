@@ -7,12 +7,12 @@
       "tests/database/factories"
     ],
     "psr-4": {
-      "Jsdecena\\Baserepo\\": "src/"
+      "Andresgarzonj\\Baserepo\\": "src/"
     }
   },
   "autoload-dev": {
     "psr-4": {
-      "Jsdecena\\Baserepo\\Test\\": "tests/"
+      "Andresgarzonj\\Baserepo\\Test\\": "tests/"
     }
   },
   "require": {
@@ -30,7 +30,7 @@
   "extra": {
     "laravel": {
       "providers": [
-        "Jsdecena\\Baserepo\\BaseRepositoryProvider"
+        "Andresgarzonj\\Baserepo\\BaseRepositoryProvider"
       ]
     }
   },
